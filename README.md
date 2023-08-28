@@ -17,6 +17,7 @@
 | ![Star](https://img.shields.io/github/stars/tqsdyy/TAT.svg?style=social&label=Star) <br> [**PTTR: Relational 3D point cloud object tracking with transformer**](https://openaccess.thecvf.com/content/ACCV2022/papers/Lan_Temporal-aware_Siamese_Tracker_Integrate_Temporal_Context_for_3D_Object_Tracking_ACCV_2022_paper.pdf) <br> | ACCV | 2022 | [Github](https://github.com/tqsdyy/TAT) | - |
 | ![Star](https://img.shields.io/github/stars/slothfulxtx/cxtrack3d.svg?style=social&label=Star) <br> [**CXTrack: Improving 3D Point Cloud Tracking with Contextual Information**](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_CXTrack_Improving_3D_Point_Cloud_Tracking_With_Contextual_Information_CVPR_2023_paper.pdf) <br> | CVPR | 2023 | [Github](https://github.com/slothfulxtx/cxtrack3d) | - |
 | ![Star](https://img.shields.io/github/stars/slothfulxtx/MBPTrack3D.svg?style=social&label=Star) <br> [**MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors**](https://arxiv.org/pdf/2303.05071) <br> | ICCV | 2023 | [Github](https://github.com/slothfulxtx/MBPTrack3D) | - |
+| ![Star](https://img.shields.io/github/stars/.svg?style=social&label=Star) <br> [**Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking**](http://arxiv.org/abs/2308.12549) <br> | ICCV | 2023 | [Github]() | - |
 
 
 
