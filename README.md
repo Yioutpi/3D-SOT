@@ -19,7 +19,11 @@
 | ![Star](https://img.shields.io/github/stars/slothfulxtx/MBPTrack3D.svg?style=social&label=Star) <br> [**MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors**](https://arxiv.org/pdf/2303.05071) <br> | ICCV | 2023 | [Github](https://github.com/slothfulxtx/MBPTrack3D) | MBPTrack |
 | ![Star](https://img.shields.io/github/stars/.svg?style=social&label=Star) <br> [**Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking**](http://arxiv.org/abs/2308.12549) <br> | ICCV | 2023 | [Github]() | - |
 | ![Star](https://img.shields.io/github/stars/.svg?style=social&label=Star) <br> [**Spatio-Temporal Contextual Learning for Single Object Tracking on Point Clouds**](https://ieeexplore.ieee.org/abstract/document/10011208) <br> | ICCV | 2023 | [Github]() | CAT |
-| ![Star](https://img.shields.io/github/stars/.svg?style=social&label=Star) <br> [**M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking**](https://arxiv.org/pdf/2312.06117.pdf) <br> | AAAI | 2024 | [Github](https://github.com/ywu0912/TeamCode) | M3SOT |
+| ![Star](https://img.shields.io/github/stars/liujia99/M3SOT.svg?style=social&label=Star) <br> [**M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking**](https://arxiv.org/pdf/2312.06117.pdf) <br> | AAAI | 2024 | [Github](https://github.com/liujia99/M3SOT) | M3SOT |
+| ![Star](https://img.shields.io/github/stars/zjwhit/SCVTrack.svg?style=social&label=Star) <br> [**Robust 3D Tracking with Quality-Aware Shape Completion**](https://arxiv.org/abs/2312.10608) <br> | AAAI | 2024 | [Github](https://github.com/zjwhit/SCVTrack) | SCVTrack |
+| ![Star](https://img.shields.io/github/stars/.svg?style=social&label=Star) <br> [**Modeling Continuous Motion for 3D Point Cloud Object Tracking**](https://arxiv.org/abs/2303.07605) <br> | AAAI | 2024 | [Github]() | StreamTrack |
+| ![Star](https://img.shields.io/github/stars/.svg?style=social&label=Star) <br> [**TOWARDS CATEGORY UNIFICATION OF 3D SINGLE OBJECT TRACKING ON POINT CLOUDS**](https://openreview.net/pdf?id=QlqdXrzzD1) <br> | ICLR | 2024 | [Github]() | MoCUT |
+| ![Star](https://img.shields.io/github/stars/aron-lin/seqtrack3d.svg?style=social&label=Star) <br> [**TOWARDS CATEGORY UNIFICATION OF 3D SINGLE OBJECT TRACKING ON POINT CLOUDS**](https://arxiv.org/abs/2402.16249) <br> | ICLR | 2024 | [Github](https://github.com/aron-lin/seqtrack3d) | SeqTrack3D |
 
 
 
